@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=horaciomanuel26.horaciomanuel26" />
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IgorSemedo.IgorSemedo" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Igor+Semedo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello+World!+👋;+I'm+Igor+Semedo!; My friends call me Percy" />
 </h1>
 
 <h3 align="center">A passionate software developer and designer from Angola</h3>
@@ -9,25 +9,25 @@
 <br/>
 
 <div align="center">
- 
+
  🔭 I’m currently working on **academic and business management software**
 
  📝 I regularly work on various design and software projects.
- 
+
  👯 I’m looking to collaborate on innovative software projects.
 
 💬 Ask me about **Python, JavaScript, Laravel, Angular... or anything [here](https://github.com/horaciomanuel99/horaciomanuel99/issues)**
 
  </div>
- 
-<div align="center"> 
+
+<div align="center">
   <a href="mailto:manuellhoracio26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
 </div>
 
  <hr/>
- 
+
 ## 🌟 About Me
 
 Hello! I'm **Horácio Manuel**, a software developer and designer with a passion for creating innovative and elegant solutions. My expertise spans various programming languages and design tools, allowing me to approach projects creatively and efficiently.
@@ -119,14 +119,14 @@ Hello! I'm **Horácio Manuel**, a software developer and designer with a passion
         <td style="border: none; width: 100%;">
             <picture>
                 <source
-                    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciomanuel26&layout=compact&theme=dark&title_color=C00102"
+                    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSemedo&layout=compact&theme=dark&title_color=C00102"
                     media="(prefers-color-scheme: dark)"
                 />
-                <source
-                    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciomanuel26&layout=compact&title_color=C00102"
+                  <source
+                    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSemedo&layout=compact&title_color=C00102"
                     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 />
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciomanuel26&layout=compact&title_color=C00102" style="width: 100%;" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSemedo&layout=compact&title_color=C00102" style="width: 100%;" />
             </picture>
         </td>
     </tr>
