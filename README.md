@@ -57,10 +57,11 @@ You can reach me at:
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorSemedo&show_icons=true&theme=dark" alt="Percy GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorSemedo&theme=dark" alt="GitHub Streak Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorSemedo&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSemedo&layout=compact&theme=dark" alt="Most Used Languages" height="150"/>
 </div>
 
@@ -77,4 +78,3 @@ You can reach me at:
 "Programming is my art, and my code is the canvas where I paint experiences." 
 
 😊 **Thanks for stopping by!**
-
