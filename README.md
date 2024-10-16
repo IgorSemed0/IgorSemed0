@@ -59,11 +59,20 @@ You can reach me at:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorSemedo&theme=dark" alt="GitHub Streak Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorSemedo&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSemedo&layout=compact&theme=dark" alt="Most Used Languages" height="150"/>
-</div>
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<table style="width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=IgorSemed0&show_icons=true&hide_border=false&count_private=true&theme=dark&icon_color=C00102" alt="GitHub Stats">
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSemed0&layout=compact&hide_border=false&theme=dark&title_color=C00102" alt="Linguagens mais usadas">
+    </td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=IgorSemed0&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&locale=en&mode=daily&border_radius=5" alt="Streak Stats">
 
 ---
 
