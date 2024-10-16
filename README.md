@@ -1,7 +1,7 @@
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IgorSemedo.IgorSemedo" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello+World!+👋;+I'm+Igor+Semedo!; My friends call me Percy" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello+World!+👋;+I'm+Igor+Semedo" />
 </h1>
 
 <h3 align="center">A passionate software developer and designer from Angola</h3>
