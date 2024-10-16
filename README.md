@@ -1,136 +1,95 @@
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IgorSemedo.IgorSemedo" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IgorSemedo.IgorSemedo" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello+World!+👋;+I'm+Igor+Semedo" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello+World!+👋;+I'm+Percy+No+Ronin" />
 </h1>
 
-<h3 align="center">A passionate software developer and designer from Angola</h3>
+<h3 align="center">A passionate back-end developer and tech enthusiast from Angola</h3>
 
 <br/>
 
 <div align="center">
 
- 🔭 I’m currently working on **academic and business management software**
+ 🔭 I’m currently working on **DarkMamba**, a gaming platform for Angolan gamers.
 
- 📝 I regularly work on various design and software projects.
+ 📝 I regularly dive deep into various web development projects, specializing in back-end development.
 
- 👯 I’m looking to collaborate on innovative software projects.
+ 👯 I’m open to collaborating on open-source projects and innovative ideas that push the boundaries of web development.
 
-💬 Ask me about **Python, JavaScript, Laravel, Angular... or anything [here](https://github.com/horaciomanuel99/horaciomanuel99/issues)**
+💬 Ask me about **Laravel, PHP, SQL, JavaScript, or anything tech-related [here](https://github.com/IgorSemedo/IgorSemedo/issues)**.
 
- </div>
+</div>
 
 <div align="center">
-  <a href="mailto:manuellhoracio26@gmail.com">
+  <a href="mailto:semedoigor4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
 </div>
 
- <hr/>
+<hr/>
 
 ## 🌟 About Me
 
-Hello! I'm **Horácio Manuel**, a software developer and designer with a passion for creating innovative and elegant solutions. My expertise spans various programming languages and design tools, allowing me to approach projects creatively and efficiently.
+Hello! I'm **Percy**, also known as "PercyNoRonin" — a developer with the mindset of a *ronin*, a samurai without a master, but with a strong passion for technology. I specialize in **back-end development**, with extensive experience in **Laravel** and **PHP**. My love for technology began early, and over the years I've become proficient in a wide array of programming languages and frameworks.
+
+As a gamer and retro enthusiast, I also have a deep appreciation for **PixelArt** and the gaming culture. When I'm not coding, you can find me enjoying **anime** or hacking away on open-source software.
 
 ---
 
 ## 🛠️ Skills
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/HTTP-005C97?style=for-the-badge&logo=cloudflare&logoColor=white" alt="HTTP" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Visual Basic" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=tkinter&logoColor=white" alt="Tkinter" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/FOOS-000000?style=for-the-badge&logo=freebsd&logoColor=white" alt="FOOS" style="margin: 4px;"/>
 </div>
 
 ---
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jndungue089&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-###
 
 ## 💼 Projects
 
 ### Featured Projects
-- **[Manuellart](https://github.com/horaciomanuel99/Manuellart):** A mini site that showcases my work and skills in design and development.
-
-### Other Projects
-- **Academic Management Software:** Development of management systems for educational institutions.
-- **Business Management Software:** Creation of software solutions for business process optimization.
+- **[DarkMamba](https://github.com/IgorSemedo/DarkMamba):** A platform designed to bring the Angolan gaming community together with competitions, challenges, and national payment methods.
 
 ---
 
 ## 🎨 Hobbies
 
-- **Playing Sports:** Staying active and healthy.
-- **Creating Design Projects:** Always seeking new inspirations and techniques.
-- **Reading:** Learning and relaxing at the same time.
+- **Gaming:** Retro gaming and exploring PixelArt aesthetics.
+- **Anime and Otaku Culture:** I'm a big fan of anime and the world it opens up.
+- **Linux Enthusiast:** I love exploring the freedom and power of the Linux ecosystem.
+- **FOOS:** Open-source projects are close to my heart, as I believe in the power of community-driven development.
 
 ---
 
 ## 📫 Contact
 
 <div align="center">
-  <a href="https://wa.me/942347516">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  <a href="https://x.com/PercyNoRonin">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
-  <a href="https://www.instagram.com/horaciomanuel99">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://app.daily.dev/igorsemedo">
+    <img src="https://img.shields.io/badge/Daily.Dev-000000?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.Dev">
   </a>
-  <a href="mailto:manuellhoracio26@gmail.com">
+  <a href="https://dev.to/igorsemedo">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
+  </a>
+  <a href="https://medium.com/@igorsemedo">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="mailto:semedoigor4@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
 ---
 
-> "Programação é uma arte e a arte de programar é criar algo maravilhoso a partir do nada."
+> "Technology is my dojo, and every project is a new battle. I code, I learn, I grow."
 
-😊 **Obrigado pela visita!**
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<table style="width: 100%;">
-    <tr style="border: none;">
-        <td style="border: none; width: 100%;">
-            <picture>
-                <source
-                    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSemedo&layout=compact&theme=dark&title_color=C00102"
-                    media="(prefers-color-scheme: dark)"
-                />
-                  <source
-                    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSemedo&layout=compact&title_color=C00102"
-                    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                />
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSemedo&layout=compact&title_color=C00102" style="width: 100%;" />
-            </picture>
-        </td>
-    </tr>
-</table>
-
-
-<br/><br/>
+😊 **Thanks for visiting!**
