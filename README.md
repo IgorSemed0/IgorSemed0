@@ -64,7 +64,7 @@ You can reach me at:
 <table style="width: 100%;">
   <tr style="border: none;">
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=IgorSemed0&show_icons=true&hide_border=false&count_private=true&theme=dark&icon_color=C00102" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=IgorSemed0&show_icons=true&hide=stars,prs&hide_border=false&count_private=true&theme=dark&icon_color=C00102" alt="GitHub Stats">
     </td>
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSemed0&layout=compact&hide_border=false&theme=dark&title_color=C00102" alt="Linguagens mais usadas">
