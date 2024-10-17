@@ -32,7 +32,7 @@ As a **gamer**, retro fan, and **PixelArt** lover, I bring that same energy to m
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 4px;"/>
 </div>
 
-I primarily work with **Laravel** for backend development, although my experience spans across many languages and technologies like **JavaScript**, **MySQL**, and **React**. I'm also a huge **Linux** advocate—my go-to environment for development.
+I primarily work with **Laravel** for backend development, although my experience spans across many languages and technologies like **JavaScript**, **MySQL**, and **React**. I'm also a huge **Linux** enthusiast—my go-to environment for development.
 
 ---
 
