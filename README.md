@@ -10,8 +10,7 @@
 
 ## 🚀 About Me
 
-Hey there! I'm **Igor Semedo**, but in the tech world, I go by **PercyNoRonin**, the **Samurai Without a Master**. Since my first disassembled toy, .
-
+Hey there! I'm **Igor Semedo**, but in the tech world, I go by **PercyNoRonin**, the **Samurai Without a Master**. Since my first disassembled toy, gameplay, anime interaction... Since those moments, My life change from good to better.
 I’m deeply passionate about **Free and Open Source Software (FOOS)**, and I’m working on several initiatives to boost the adoption and development of FOOS in Angola. My goal is to create a thriving tech community that fosters collaboration and innovation.
 
 As a **gamer**, retro fan, and **PixelArt** lover, I bring that same energy to my code—always aiming to create experiences that are both powerful and beautifully crafted.
