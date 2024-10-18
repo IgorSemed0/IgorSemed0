@@ -4,13 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Greetings+World!+👋;+I'm+Percy+No+Ronin;" />
 </h1>
 
-<h3 align="center">Tech Enthusiast | Gamer | Software Developer | Otaku | FOOS</h3>
+<h3 align="center">Tech Enthusiast | Software Developer | Gamer | Otaku | FOOS</h3>
 
 ---
 
 ## 🚀 About Me
 
-Hey there! I'm **Igor Semedo**, but in the tech world, I go by **PercyNoRonin**, the **Samurai Without a Master**. My journey through technology has been like a real quest—exploring new horizons, mastering frameworks, and always pushing the boundaries of what's possible.
+Hey there! I'm **Igor Semedo**, but in the tech world, I go by **PercyNoRonin**, the **Samurai Without a Master**. Since my first disassembled toy, .
 
 I’m deeply passionate about **Free and Open Source Software (FOOS)**, and I’m working on several initiatives to boost the adoption and development of FOOS in Angola. My goal is to create a thriving tech community that fosters collaboration and innovation.
 
