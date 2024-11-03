@@ -57,11 +57,11 @@ src="https://img.shields.io/twitter/follow/PercyNoRonin?logo=twitter&style=for-t
 
 
 ### Support Me
-<div style="display: flex; justify-content: space-between; margin: 1rem;">
+<div style="display: flex; justify-content: center; margin: 1rem;">
     <a href="https://www.buymeacoffee.com/igorsemedo" style="margin-right: 1rem;">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
     </a>
-    <a href="https://www.ko-fi.com/igorsemedo">
+    <a href="https://www.ko-fi.com/igorsemedo" style="margin-left: 1rem;">
         <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
     </a>
 </div>
