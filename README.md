@@ -81,16 +81,17 @@ src="https://img.shields.io/twitter/follow/PercyNoRonin?logo=twitter&style=for-t
 <div align="center" style="margin: 1rem;>
   
 <br>
-
-###
 <p/>
+  
 <a href="https://buymeacoffee.com/igorsemedo" style="margin-left: 1rem;">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
 </a>
 
+<a href="https://buymeacoffee.com/igorsemedo" style="margin-left: 1rem;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 <a href="https://www.ko-fi.com/igorsemedo" style="margin-left: 1rem;">
     <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
 </a>
+
 
 
 </div>
