@@ -16,21 +16,12 @@ Hey there! I'm Igor Semedo, but in the tech world, I go by PercyNoRonin, the Sam
 
 ---
 
-* 🌍  I'm based in Luanda, Angola.
-* ✉️  You can contact me at [semedoigor4@gmail.com](mailto:semedoigor4@gmail.com)
-* 🚀  I'm currently working on [Casper - Rust CLI Assistant.](http://github.com/IgorSemed0/Casper)
-* 🧠  I'm learning Rust Programming Language.
-* 🤝  I'm open to collaborating on FOOS projects.
-* ⚡  I'm actively involved in: FOOS Projects in Angola: Building solutions and communities to promote the use of open-source technologies. Web Development: Working on a wide range of projects, from backend-heavy applications to full-stack solutions. Gamer Tech: Creating tools and platforms for the gaming community, inspired by my own love for retro games and emerging tech.
-
----
-
-### Skills
 
 <div align="center">
 
+### Skills
 
-<h3>General and Passions</h3>
+<h4>General and Passions</h4>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
 <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a>
@@ -39,7 +30,7 @@ Hey there! I'm Igor Semedo, but in the tech world, I go by PercyNoRonin, the Sam
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 
-<h3>FrontEnd</h1> 
+<h4>FrontEnd</h4> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
@@ -50,7 +41,7 @@ Hey there! I'm Igor Semedo, but in the tech world, I go by PercyNoRonin, the Sam
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 
-<h3>BackEnd</h1> 
+<h4>BackEnd</h4> 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
