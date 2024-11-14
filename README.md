@@ -16,7 +16,6 @@ Hey there! I'm Igor Semedo, but in the tech world, I go by PercyNoRonin, the Sam
 
 ---
 
-
 <div align="center">
 
 ### Skills
