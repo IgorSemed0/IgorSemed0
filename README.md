@@ -12,8 +12,11 @@
 
 ---
 
-Hey there! I'm Igor Semedo, but in the tech world, I go by PercyNoRonin, the Samurai Without a Master. Since my first disassembled toy, gameplay, anime interaction... Since those moments, My life change from good to better. I’m deeply passionate about Free and Open Source Software (FOOS), and I’m working on several initiatives to boost the adoption and development of FOOS in Angola. My goal is to create a thriving tech community that fosters collaboration and innovation. As a gamer, retro fan, and PixelArt lover, I bring that same energy to my code—always aiming to create experiences that are both powerful and beautifully crafted.
-
+I am a Software Developer. I currently work in Web Development, focusing on and addressing Full-Stack problems and solutions, with additional expertise in implementing PWAs.
+I work with the following technologies: Laravel, React, and Next.js (TypeScript-oriented), MySQL, Node.js, Express.js, and Electron.js.
+I also work with technologies such as Laravel, React, Next.js, MySQL, Electron.js, Bootstrap, and TailwindCSS.
+I am skilled in developing software dedicated to the web (responsive across all accessible platforms) and desktop.
+In my work, I use Laravel for Full-Stack applications and, in many cases, as a Rest API, serving as the back-end of the application, while using front-end frameworks or libraries like Angular or React (for web applications) and Electron (for desktop).
 ---
 
 <div align="center">
