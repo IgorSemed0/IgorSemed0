@@ -6,7 +6,7 @@
 
 <h1 align="center">
  Web Developer - Full Stack <br> 
-  Laravel | React & React Native | Electron
+  Laravel | Next React & React Native | Electron
   <br> Web | Desktop | Mobile
 </h1>
 
