@@ -1,7 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IgorSemedo.IgorSemedo" />
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Greetings+World!+👋;+I'm+Percy+No+Ronin;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Greetings+My+Friend!+👋;+I'm+Percy+No+Ronin;" />
 </h1>
 
 <h1 align="center">
