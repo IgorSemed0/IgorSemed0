@@ -108,6 +108,4 @@
     <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
 </a>
 
-
-
 </div>
