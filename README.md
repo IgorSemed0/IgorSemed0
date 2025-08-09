@@ -4,9 +4,7 @@
 </h1>
 
 <h1 align="center">
-  Software Developer|
- Web Developer - Full Stack <br> 
-  Laravel | Next & Express| React & React Native | Electron
+   Laravel | Rust | Vue & React | React Native | Electron
   <br> Web | Desktop | Mobile
 </h1>
 
