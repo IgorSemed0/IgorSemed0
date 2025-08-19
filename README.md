@@ -19,8 +19,7 @@
   <br>
   I am skilled in developing software dedicated to the web (responsive across all accessible platforms) and desktop.
   <br>
-  In my work, I use Laravel for Full-Stack applications and, in many cases, as a Rest API, serving as the back-end of the application, while using front-end frameworks or libraries like Angular or React (for web applications) and Electron (for desktop).
-
+  In my work, I use Laravel for Full-Stack applications and, in many cases, as a Rest API, serving as the back-end of the application, while using front-end frameworks or libraries like Angular or React (for web applications) and Electron (for desktop)
 </div>
 
 ---
