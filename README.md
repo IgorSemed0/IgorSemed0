@@ -11,16 +11,16 @@
 ---
 <div align="center"
   
-  I am a Software Developer. I currently work in Web Development, focusing on and addressing Full-Stack problems and solutions, with additional expertise in implementing PWAs.
-  <br>
-  I work with the following technologies: Laravel, React, and Next.js (TypeScript-oriented), MySQL, Node.js, Express.js, and Electron.js.
-  <br>
-  I also work with technologies such as Laravel, React, Next.js, MySQL, Electron.js, Bootstrap, and TailwindCSS.
-  <br>
-  I am skilled in developing software dedicated to the web (responsive across all accessible platforms) and desktop.
-  <br>
-  In my work, I use Laravel for Full-Stack applications and, in many cases, as a Rest API, serving as the back-end of the application, while using front-end frameworks or libraries like Angular or React (for web applications) and Electron (for desktop)
-</div>
+1. 1.   I am a Software Developer. I currently work in Web Development, focusing on and addressing Full-Stack problems and solutions, with additional expertise in implementing PWAs.
+2. 2.   <br>
+3. 3.   I work with the following technologies: Laravel, React, and Next.js (TypeScript-oriented), MySQL, Node.js, Express.js, and Electron.js.
+4. 4.   <br>
+5. 5.   I also work with technologies such as Laravel, React, Next.js, MySQL, Electron.js, Bootstrap, and TailwindCSS.
+6. 6.   <br>
+7. 7.   I am skilled in developing software dedicated to the web (responsive across all accessible platforms) and desktop.
+8. 8.   <br>
+9. 9.   In my work, I use Laravel for Full-Stack applications and, in many cases, as a Rest API, serving as the back-end of the application, while using front-end frameworks or libraries like Angular or React (for web applications) and Electron (for desktop)
+10. </div>
 
 ---
 
