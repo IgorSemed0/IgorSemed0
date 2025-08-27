@@ -7,12 +7,6 @@
    Laravel | Rust | Vue & React | React Native | Electron
   <br> Web | Desktop | Mobile
 </h1>
-
----
-<div align="center"
-  Under migrations...  
- </div>
-
 ---
 
 <div align="center">
