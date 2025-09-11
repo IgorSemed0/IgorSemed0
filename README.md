@@ -62,7 +62,7 @@
 <p align="center">
   <strong>
     <span>
-      It's so hard to stay awake without a...
+      It's so hard to stay awake without a coffe, help me:...
     </span>
   </strong>
   </p>
