@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Greetings+My+Friend!+👋;+I'm+Percy+No+Ronin;" />
 </h1>
 
-<div align="left">
-
 ### Skills
 
 <h4>General and Passions</h4>
